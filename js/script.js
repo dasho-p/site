@@ -13,3 +13,4 @@ sayHi("Петя"); // Вася: Привет, Петя
 sayHi("Маша"); // Вася: Привет, Маша
 
 document.write("branch Pavlo");
+document.write("branch master");
