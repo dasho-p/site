@@ -11,3 +11,5 @@ var sayHi = bind(user.sayHi, user);
 
 sayHi("Петя"); // Вася: Привет, Петя
 sayHi("Маша"); // Вася: Привет, Маша
+
+document.write("branch Pavlo");
