@@ -4,3 +4,4 @@
 document.write("branch master");
  document.write("pavlo");
 document.write("branch master");
+var na = "master";
